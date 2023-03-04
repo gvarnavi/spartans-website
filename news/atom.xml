@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gvarnavi.github.io/spartans-website/news</id>
+    <title>SpaRTaNS Blog</title>
+    <updated>2022-04-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gvarnavi.github.io/spartans-website/news"/>
+    <subtitle>SpaRTaNS Blog</subtitle>
+    <icon>https://gvarnavi.github.io/spartans-website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1.0 Release]]></title>
+        <id>https://gvarnavi.github.io/spartans-website/news/spartans-release</id>
+        <link href="https://gvarnavi.github.io/spartans-website/news/spartans-release"/>
+        <updated>2022-04-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Under Construction.]]></summary>
+        <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-caution alert alert--warning admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>caution</div><div class="admonitionContent_S0QG"><p>Under Construction.</p></div></div>]]></content>
+        <author>
+            <name>Georgios Varnavides</name>
+            <uri>https://gvarnavides.com/</uri>
+        </author>
+        <author>
+            <name>Adam S Jermyn</name>
+            <uri>https://adamjermyn.com/</uri>
+        </author>
+        <author>
+            <name>Prineha Narang</name>
+            <uri>https://narang.seas.harvard.edu/</uri>
+        </author>
+        <category label="release" term="release"/>
+        <category label="spartans" term="spartans"/>
+    </entry>
+</feed>
