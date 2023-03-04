@@ -11,12 +11,12 @@ SpaRTaNS was designed with use cases in condensed matter physics and materials s
 
 ## Useful Links
 
-- SpaRTaNS homepage: https://narang-lab.github.io/spartans/
-- SpaRTaNS documentation: https://narang-lab.github.io/spartans/docs/intro
-- Code repository: https://github.com/narang-lab/spartans
+- SpaRTaNS homepage: https://gvarnavides.com/spartans-website/
+- SpaRTaNS documentation: https://gvarnavides.com/spartans-website/docs/intro
+- Code repository: https://github.com/gvarnavi/spartans-website
 
 ## Developers and Maintainers 
 
 - [Georgios Varnavides](https://gvarnavides.com/)
 - [Adam S Jermyn](https://adamjermyn.com/)
-- [Prineha Narang](https://narang.seas.harvard.edu/)
+- [Prineha Narang](https://naranglab.ucla.edu/)

@@ -8,15 +8,20 @@ const katex = require('rehype-katex');
 module.exports = {
   title: 'SpaRTaNS',
   tagline: 'Spatially Resolved Transport of Nonequilibrium Species',
-  url: 'https://narang-lab.github.io',
-  baseUrl: '/spartans/',
+  url: 'https://gvarnavi.github.io',
+  baseUrl: '/spartans-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'narang-lab', // Usually your GitHub org/user name.
-  projectName: 'spartans', // Usually your repo name.
+  organizationName: 'gvarnavi', // Usually your GitHub org/user name.
+  projectName: 'spartans-website', // Usually your repo name.
   trailingSlash: false, //gh-pages specific
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     navbar: {
       title: 'SpaRTaNS',
       logo: {
